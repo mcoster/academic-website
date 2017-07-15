@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-I teach in the following courses at Griffith University:
+I teach the following courses at Griffith University:
 
 - 3105NSC: Advanced Organic Chemistry (*Convenor*)
 - 3104NSC: Drug Design and Delivery

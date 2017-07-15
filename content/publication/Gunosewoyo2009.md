@@ -1,0 +1,15 @@
++++
+abstract = "A review.  The purinergic P2X7 receptor is a unique member of the ATP-gated P2X family.  This receptor has been implicated in numerous diseases and many structurally diverse ligands have been discovered via high throughput screening.  This perspective will attempt to highlight some of the most recent key findings in both the biol. and chem."
+abstract_short = "A review.  The purinergic P2X7 receptor is a unique member of the ATP-gated P2X family.  This receptor has been implicated in numerous diseases and many structurally diverse ligands have been discovered via high throughput screening.  This perspective will attempt to highlight some of the most recent key findings in both the biol. and chem."
+authors = ["Gunosewoyo, Hendra", "Coster, Mark J.", "Bennett, Maxwell R.", "Kassiou, Michael."]
+date = "2009-01-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "Bioorganic & Medicinal Chemistry"
+publication_short = "Bioorganic & Medicinal Chemistry 2009, 17, 4861-4865"
+selected = true
+title = "Purinergic P2X7 receptor antagonists: Chemistry and fundamentals of biological screening."
+
+
++++

@@ -1,0 +1,15 @@
++++
+abstract = "A series of amide and urea analogs I (R = Me, Et, cyclopropyl, furan-3-yl, Ph, NHBu, NMeOMe ,etc., R1 = H; R = Me, R1 = Me, cyclopentyl, PhCH2, etc.) based on the thiaplakortone A natural product scaffold were synthesized and screened for in vitro antimalarial activity against chloroquine-sensitive (3D7) and chloroquine- and mefloquine-resistant (Dd2) Plasmodium falciparum parasite lines.  Several analogs displayed potent inhibition of P. falciparum growth (IC50 <500 nM) and good selectivity for P. falciparum vs. human neonatal foreskin fibroblast cells (selectivity index >100).  Two of these compds., I (R = Me, NHBu, R1 = H), exhibited good aq. soly. and metabolic stability, and when administered s.c. to mice (32 mg kg-1), plasma concns. remained above 0.2 μM for at least 8 h.  Both I (R = Me, NHBu, R1 = H) were well tolerated in mice after s.c. administration of 32 mg kg-1 twice daily for 4 days.  Using this regimen blood stage P. berghei was suppressed by 52% for I (R = Me, R1 = H) and 26% for I (R = NHBu, R1 = H), relative to the vehicle control."
+abstract_short = "A series of amide and urea analogs I (R = Me, Et, cyclopropyl, furan-3-yl, Ph, NHBu, NMeOMe ,etc., R1 = H; R = Me, R1 = Me, cyclopentyl, PhCH2, etc.) based on the thiaplakortone A natural product scaffold were synthesized and screened for in vitro antimalarial activity against chloroquine-sensitive (3D7) and chloroquine- and mefloquine-resistant (Dd2) Plasmodium falciparum parasite lines.  Several analogs displayed potent inhibition of P. falciparum growth (IC50 <500 nM) and good selectivity for P. falciparum vs. human neonatal foreskin fibroblast cells (selectivity index >100).  Two of these compds., I (R = Me, NHBu, R1 = H), exhibited good aq. soly. and metabolic stability, and when administered s.c. to mice (32 mg kg-1), plasma concns. remained above 0.2 μM for at least 8 h.  Both I (R = Me, NHBu, R1 = H) were well tolerated in mice after s.c. administration of 32 mg kg-1 twice daily for 4 days.  Using this regimen blood stage P. berghei was suppressed by 52% for I (R = Me, R1 = H) and 26% for I (R = NHBu, R1 = H), relative to the vehicle control."
+authors = ["Schwartz, Brett D.", "Skinner-Adams, Tina S.", "Andrews, Katherine T.", "Coster, Mark J.", "Edstein, Michael D.", "MacKenzie, Donna", "Charman, Susan A.", "Koltun, Maria", "Blundell, Scott", "Campbell, Anna", "Pouwer, Rebecca H.", "Quinn, Ronald J.", "Beattie, Karren D.", "Healy, Peter C.", "Davis, Rohan A."]
+date = "2015-01-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "Organic & Biomolecular Chemistry"
+publication_short = "Organic & Biomolecular Chemistry 2015, 13, 1558-1570"
+selected = true
+title = "Synthesis and antimalarial evaluation of amide and urea derivatives based on the thiaplakortone A natural product scaffold."
+
+
++++
