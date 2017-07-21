@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Acta Crystallographica, Section E: Structure Reports Online"
 publication_short = "Acta Crystallographica, Section E: Structure Reports Online 2007, 63, o92-o93"
-selected = true
+selected = false
 title = "(1R,2S,3R,6S,7R,8S)-Tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol."
 
 

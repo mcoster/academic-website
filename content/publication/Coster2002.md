@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Organic Letters"
 publication_short = "Organic Letters 2002, 4, 3047-3050"
-selected = true
+selected = false
 title = "Medium Ring Ethers by Ring Expansion-Ring Contraction: Synthesis of Lauthisan."
 
 

@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Antioxidants & Redox Signaling"
 publication_short = "Antioxidants & Redox Signaling 2011, 15, 2923-2935"
-selected = true
+selected = false
 title = "Mitochondrially Targeted α-Tocopheryl Succinate Is Antiangiogenic: Potential Benefit Against Tumor Angiogenesis but Caution Against Wound Healing."
 
 

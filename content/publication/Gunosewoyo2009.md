@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Bioorganic & Medicinal Chemistry"
 publication_short = "Bioorganic & Medicinal Chemistry 2009, 17, 4861-4865"
-selected = true
+selected = false
 title = "Purinergic P2X7 receptor antagonists: Chemistry and fundamentals of biological screening."
 
 

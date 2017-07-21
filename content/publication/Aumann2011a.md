@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Tetrahedron Letters"
 publication_short = "Tetrahedron Letters 2011, 52, 1070-1073"
-selected = true
+selected = false
 title = "Arylation of [6,6]-spiroacetal enol ethers: reactivity and rearrangement."
 
 

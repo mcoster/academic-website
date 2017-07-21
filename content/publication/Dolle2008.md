@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Australian Journal of Chemistry"
 publication_short = "Australian Journal of Chemistry 2008, 61, 438-445"
-selected = true
+selected = false
 title = "Synthesis and In-Vivo Evaluation of [11C]p-PVP-MEMA as a PET Radioligand for Imaging Nicotinic Receptors."
 
 

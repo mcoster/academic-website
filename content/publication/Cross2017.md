@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "FASEB Journal"
 publication_short = "FASEB Journal 2017, 31, 920-926,S1-S12"
-selected = true
+selected = false
 title = "Probing function and structure of trehalose-6-phosphate phosphatases from pathogenic organisms suggests distinct molecular groupings."
 
 

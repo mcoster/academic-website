@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Bioorganic & Medicinal Chemistry Letters"
 publication_short = "Bioorganic & Medicinal Chemistry Letters 2008, 18, 3720-3723"
-selected = true
+selected = false
 title = "Cubyl amides: Novel P2X7 receptor antagonists."
 
 

@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Tetrahedron Letters"
 publication_short = "Tetrahedron Letters 2015, 56, 2059-2061"
-selected = true
+selected = false
 title = "Synthesis of N-alkylsulfonamides by borane-dimethyl sulfide reduction of N-acylsulfonamides."
 
 

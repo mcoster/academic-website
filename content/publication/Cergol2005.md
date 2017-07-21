@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Tetrahedron Letters"
 publication_short = "Tetrahedron Letters 2005, 46, 1505-1509"
-selected = true
+selected = false
 title = "The boron-mediated ketone-ketone aldol reaction."
 
 

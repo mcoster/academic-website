@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Marine Drugs"
 publication_short = "Marine Drugs 2015, 13, 5784-5795"
-selected = true
+selected = false
 title = "Synthesis and antiplasmodial evaluation of analogues based on the tricyclic core of Thiaplakortones A-D."
 
 

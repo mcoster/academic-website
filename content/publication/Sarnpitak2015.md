@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Biotechnology Advances"
 publication_short = "Biotechnology Advances 2015, 33, 941-947"
-selected = true
+selected = false
 title = "Panel docking of small-molecule libraries - Prospects to improve efficiency of lead compound discovery."
 
 

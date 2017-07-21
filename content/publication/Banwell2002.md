@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Journal of the Chemical Society, Perkin Transactions 1"
 publication_short = "Journal of the Chemical Society, Perkin Transactions 1 2002, 1622-1624"
-selected = true
+selected = false
 title = "A chemoenzymatic synthesis of the styryllactone (+)-goniodiol from naphthalene."
 
 

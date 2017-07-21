@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Current Medicinal Chemistry"
 publication_short = "Current Medicinal Chemistry 2007, 14, 1505-1523"
-selected = true
+selected = false
 title = "Molecular probes for P2X7 receptor studies."
 
 

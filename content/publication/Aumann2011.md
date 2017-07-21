@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Tetrahedron Letters"
 publication_short = "Tetrahedron Letters 2011, 52, 6988-6990"
-selected = true
+selected = false
 title = "First enantioselective synthesis of methyl (+)-7-methoxyanodendroate, an antitubercular dihydrobenzofuran."
 
 

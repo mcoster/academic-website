@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Organic & Biomolecular Chemistry"
 publication_short = "Organic & Biomolecular Chemistry 2015, 13, 1558-1570"
-selected = true
+selected = false
 title = "Synthesis and antimalarial evaluation of amide and urea derivatives based on the thiaplakortone A natural product scaffold."
 
 

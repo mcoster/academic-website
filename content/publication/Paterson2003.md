@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Chemical Communications (Cambridge, United Kingdom)"
 publication_short = "Chemical Communications (Cambridge, United Kingdom) 2003, 462-463"
-selected = true
+selected = false
 title = "Synthesis and biological evaluation of spongistatin/altohyrtin analogues: E-ring dehydration and C46 side-chain truncation."
 
 

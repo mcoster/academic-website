@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Chemical Communications (Cambridge, United Kingdom)"
 publication_short = "Chemical Communications (Cambridge, United Kingdom) 2007, 1363-1365"
-selected = true
+selected = false
 title = "Reversibility in the boron-mediated ketone-ketone aldol reaction."
 
 

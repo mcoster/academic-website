@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Journal of Organic Chemistry"
 publication_short = "Journal of Organic Chemistry 2003, 68, 613-616"
-selected = true
+selected = false
 title = "Selective Cleavage of N-Benzyl-Protected Secondary Amines by Triphosgene."
 
 

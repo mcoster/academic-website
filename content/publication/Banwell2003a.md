@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Australian Journal of Chemistry"
 publication_short = "Australian Journal of Chemistry 2003, 56, 577-583"
-selected = true
+selected = false
 title = "CP-225,917 and CP-263,114 synthesis support studies: Testing a radical cyclization strategy for installation of the side-chains."
 
 

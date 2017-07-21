@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Organic & Biomolecular Chemistry"
 publication_short = "Organic & Biomolecular Chemistry 2012, 10, 154-161"
-selected = true
+selected = false
 title = "3,4'-Linked bis(piperidines) related to the haliclonacyclamine class of marine alkaloids: synthesis using crossed-aldol chemistry and preliminary biological evaluations."
 
 

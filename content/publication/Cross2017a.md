@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Scientific reports"
 publication_short = "Scientific reports 2017, 7, 2015"
-selected = true
+selected = false
 title = "Enzyme characteristics of pathogen-specific trehalose-6-phosphate phosphatases"
 
 

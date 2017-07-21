@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Tetrahedron Letters"
 publication_short = "Tetrahedron Letters 2002, 43, 3285-3289"
-selected = true
+selected = false
 title = "Total synthesis of altohyrtin A (spongistatin 1): an alternative synthesis of the CD-spiroacetal subunit."
 
 

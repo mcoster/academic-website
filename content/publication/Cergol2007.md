@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Nature Protocols"
 publication_short = "Nature Protocols 2007, 2, 2568-2573"
-selected = true
+selected = false
 title = "Asymmetric aldol reaction using boron enolates."
 
 

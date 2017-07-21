@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Australian Journal of Chemistry"
 publication_short = "Australian Journal of Chemistry 2003, 56, 585-595"
-selected = true
+selected = false
 title = "A total synthesis of the styryllactone (+)-goniodiol from naphthalene."
 
 

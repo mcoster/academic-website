@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Bioorganic & Medicinal Chemistry Letters"
 publication_short = "Bioorganic & Medicinal Chemistry Letters 2010, 20, 145-148"
-selected = true
+selected = false
 title = "Oxo-bridged isomers of aza-trishomocubane sigma (σ) receptor ligands: Synthesis, in vitro binding, and molecular modeling."
 
 

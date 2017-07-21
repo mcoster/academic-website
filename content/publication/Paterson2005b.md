@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Organic & Biomolecular Chemistry"
 publication_short = "Organic & Biomolecular Chemistry 2005, 3, 2410-2419"
-selected = true
+selected = false
 title = "The stereocontrolled total synthesis of altohyrtin A/spongistatin 1: the CD-spiroacetal segment."
 
 

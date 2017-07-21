@@ -8,7 +8,7 @@ math = true
 publication_types = ["2"]
 publication = "Tetrahedron Letters"
 publication_short = "Tetrahedron Letters 2014, 55, 6864-6867"
-selected = true
+selected = false
 title = "Total synthesis of (±)-nicolaioidesin B via a highly regio- and diastereoselective Diels-Alder reaction."
 
 
