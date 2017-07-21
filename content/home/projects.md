@@ -2,7 +2,7 @@
 # Projects widget.
 # This widget displays all projects from `content/project/`.
 
-date = "2017-22-20T00:00:00"
+date = "2017-07-22T00:00:00"
 draft = false
 
 title = "Projects"
