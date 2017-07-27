@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Bioorganic & Medicinal Chemistry Letters"
-publication_short = "Bioorganic & Medicinal Chemistry Letters 2017, 27, 3185-3189"
+publication_short = "Bioorg. Med. Chem. Lett. 2017, 27, 3185-3189"
 selected = false
 title = "The design, synthesis, and anti-inflammatory evaluation of a drug-like library based on the natural product valerenic acid."
 
