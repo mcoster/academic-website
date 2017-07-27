@@ -1,5 +1,6 @@
 #!/bin/sh
-cd ~/Dropbox/website/Hugo/mcoster
+cd /c/Users/s2598056/Dropbox/websites/Hugo/mcoster
+
 git add .
 git commit -m "Update academic website"
 git push -u origin master
