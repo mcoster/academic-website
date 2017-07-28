@@ -17,5 +17,7 @@ url_pdf = "pdf/C-H insertion review - pre-print.pdf"
   name = "Full Text"
   url = "https://doi.org/10.1039/c5ob00311c"
 
+[header]
+image = "headers/C-H_insertion_review.png"
 
 +++
