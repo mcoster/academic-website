@@ -1,6 +1,6 @@
 +++
 abstract = "An efficient 8-step enantioselective total synthesis of (+)-angelmarin (I), starting from commercially available umbelliferone, has been achieved. Key reactions include olefin cross-metathesis and a Shi epoxidation-cyclization sequence."
-abstract_short = "n efficient 8-step enantioselective total synthesis of (+)-angelmarin (I), starting from commercially available umbelliferone, has been achieved. Key reactions include olefin cross-metathesis and a Shi epoxidation-cyclization sequence."
+abstract_short = "An efficient 8-step enantioselective total synthesis of (+)-angelmarin (I), starting from commercially available umbelliferone, has been achieved. Key reactions include olefin cross-metathesis and a Shi epoxidation-cyclization sequence."
 authors = ["Magolan, Jakob", "**Coster, Mark J.**"]
 date = "2009-05-21"
 image_preview = ""
