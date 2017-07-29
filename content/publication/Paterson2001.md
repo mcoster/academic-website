@@ -15,5 +15,7 @@ title = "Stereocontrolled total synthesis of (+)-altohyrtin A/spongistatin 1."
   name = "Full Text"
   url = "https://doi.org/10.1002/1521-3773(20011105)40:21%3C4055::AID-ANIE4055%3E3.0.CO;2-H"
 
+[header]
+image = "headers/spongi.png"
 
 +++

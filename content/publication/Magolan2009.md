@@ -17,5 +17,8 @@ url_pdf = "pdf/Angelmarin synthesis - preprint.pdf"
   name = "Full Text"
   url = "https://doi.org/10.1021/jo900613u"
 
+[header]
+image = "headers/angelmarin.png"
+
 
 +++

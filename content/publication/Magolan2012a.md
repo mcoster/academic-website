@@ -17,4 +17,7 @@ url_pdf = "pdf/MagolanCoster - angelmarin analogues - preprint.pdf"
   name = "Full Text"
   url = "https://doi.org/10.1002/cmdc.201100564"
 
+[header]
+image = "headers/Angelmarin_analogues_ChemMedChem2012.png"
+
 +++

@@ -17,5 +17,8 @@ url_pdf = "pdf/MitoVES - JBC - preprint.pdf"
   name = "Full Text"
   url = "https://doi.org/10.1074/jbc.M110.186643"
 
+[header]
+image = "headers/MitoVES.png"
+
 
 +++

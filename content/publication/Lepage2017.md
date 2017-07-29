@@ -18,6 +18,6 @@ url_pdf = "pdf/Bidirectional spiros chem comm - 20170316 - resubmission.pdf"
   url = "http://doi.org/10.1039/C7CC00459A"
 
 [header]
-image = "headers/bidirectional-spiros.jpg"
+image = "headers/bidirectional-spiros.png"
 
 +++
