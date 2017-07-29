@@ -6,7 +6,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "mcoster75"
+disqusShortname = "@mcoster75"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-103632355-1"
