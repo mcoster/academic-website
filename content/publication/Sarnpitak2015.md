@@ -1,15 +1,20 @@
 +++
 abstract = "Computational docking as a means to prioritise small mols. in drug discovery projects remains a highly popular in silico screening approach.  Contemporary docking approaches without exptl. parametrisation can reliably differentiate active and inactive chemotypes in a protein binding site, but the absence of a correlation between the score of a predicted binding pose and the biol. activity of the mol. presents a clear limitation.  Several novel or improved computational approaches have been developed in the recent past to aid in screening and profiling of small-mol. ligands for drug discovery, but also more broadly in developing conceptual relationships between different protein targets by chem. probing.  Among those new methodologies is a strategy known as inverse virtual screening, which involves the docking of a compd. into different protein structures.  In the present article, we review the different computational screening methodologies that employ docking of at. models, and, by means of a case study, present an approach that expands the inverse virtual screening concept.  By computationally screening a reasonably sized library of 1235 compds. against a panel of 48 mostly human kinases, we have been able to identify five groups of putative lead compds. with substantial diversity when compared to each other.  One representative of each of the five groups was synthesized, and tested in kinase inhibition assays, yielding two compds. with micro-molar inhibition in five human kinases.  This highly economic and cost-effective methodol. holds great promise for drug discovery projects, esp. in cases where a group of target proteins share high structural similarity in their binding sites."
 abstract_short = "Computational docking as a means to prioritise small mols. in drug discovery projects remains a highly popular in silico screening approach.  Contemporary docking approaches without exptl. parametrisation can reliably differentiate active and inactive chemotypes in a protein binding site, but the absence of a correlation between the score of a predicted binding pose and the biol. activity of the mol. presents a clear limitation.  Several novel or improved computational approaches have been developed in the recent past to aid in screening and profiling of small-mol. ligands for drug discovery, but also more broadly in developing conceptual relationships between different protein targets by chem. probing.  Among those new methodologies is a strategy known as inverse virtual screening, which involves the docking of a compd. into different protein structures.  In the present article, we review the different computational screening methodologies that employ docking of at. models, and, by means of a case study, present an approach that expands the inverse virtual screening concept.  By computationally screening a reasonably sized library of 1235 compds. against a panel of 48 mostly human kinases, we have been able to identify five groups of putative lead compds. with substantial diversity when compared to each other.  One representative of each of the five groups was synthesized, and tested in kinase inhibition assays, yielding two compds. with micro-molar inhibition in five human kinases.  This highly economic and cost-effective methodol. holds great promise for drug discovery projects, esp. in cases where a group of target proteins share high structural similarity in their binding sites."
-authors = ["Sarnpitak, Pakornwit", "Mujumdar, Prashant", "Taylor, Paul", "Cross, Megan", "Coster, Mark J.", "Gorse, Alain-Dominique", "Krasavin, Mikhail", "Hofmann, Andreas."]
-date = "2015-01-01"
+authors = ["Sarnpitak, Pakornwit", "Mujumdar, Prashant", "Taylor, Paul", "Cross, Megan", "**Coster, Mark J.**", "Gorse, Alain-Dominique", "Krasavin, Mikhail", "Hofmann, Andreas"]
+date = "2015-05-27"
 image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Biotechnology Advances"
-publication_short = "Biotechnology Advances 2015, 33, 941-947"
+publication_short = "_Biotechnol. Adv._ **2015**, _33_, 941-947"
 selected = false
 title = "Panel docking of small-molecule libraries - Prospects to improve efficiency of lead compound discovery."
+
+[[url_custom]]
+  name = "Full Text"
+  url = "http://doi.org/10.1016/j.biotechadv.2015.05.006"
+
 
 
 +++
