@@ -15,6 +15,11 @@ title = "Panel docking of small-molecule libraries - Prospects to improve effici
   name = "Full Text"
   url = "http://doi.org/10.1016/j.biotechadv.2015.05.006"
 
+url_pdf = "pdf/.pdf"
+
+[header]
+image = "headers/.png"
+
 
 
 +++

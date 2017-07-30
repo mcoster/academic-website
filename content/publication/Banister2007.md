@@ -1,15 +1,14 @@
 +++
-abstract = "The asym. unit of (1R,2S,3R,6S,7R,8S)-tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol, C11H14O2, contains 2 mols.  The alc. groups have cis stereochem. and are involved in H bonding (acting as both donors and acceptors), giving an infinite 3-dimensional network.  Crystallog. data are given."
-abstract_short = "The asym. unit of (1R,2S,3R,6S,7R,8S)-tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol, C11H14O2, contains 2 mols.  The alc. groups have cis stereochem. and are involved in H bonding (acting as both donors and acceptors), giving an infinite 3-dimensional network.  Crystallog. data are given."
-authors = ["Banister, Samuel D.", "Clegg, Jack K.", "Coster, Mark J.", "Jolliffe, Katrina A.", "Kassiou, Michael."]
+abstract = "The asym. unit of (1_R_,2_S_,3_R_,6_S_,7_R_,8_S_)-tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol, C<sub>11</sub>H<sub>14</sub>O<sub>2</sub>, contains 2 mols.  The alc. groups have cis stereochem. and are involved in H bonding (acting as both donors and acceptors), giving an infinite 3-dimensional network.  Crystallog. data are given."
+abstract_short = "The asym. unit of (1_R_,2_S_,3_R_,6_S_,7_R_,8_S_)-tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol, C<sub>11</sub>H<sub>14</sub>O<sub>2</sub>, contains 2 mols.  The alc. groups have cis stereochem. and are involved in H bonding (acting as both donors and acceptors), giving an infinite 3-dimensional network.  Crystallog. data are given."
+authors = ["Banister, Samuel D.", "Clegg, Jack K.", "**Coster, Mark J.**", "Jolliffe, Katrina A.", "Kassiou, Michael."]
 date = "2007-01-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Acta Crystallographica, Section E: Structure Reports Online"
-publication_short = "Acta Crystallographica, Section E: Structure Reports Online 2007, 63, o92-o93"
+publication_short = "_Acta Crystallographica, Section E: Structure Reports Online_ **2007**, _63_, o92-o93"
 selected = false
-title = "(1R,2S,3R,6S,7R,8S)-Tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol."
-
+title = "(1_R_,2_S_,3_R_,6_S_,7_R_,8_S_)-tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol."
 
 +++
