@@ -11,14 +11,14 @@ publication_short = "_Chem. Commun._ **2007**, 1363-1365"
 selected = false
 title = "Reversibility in the boron-mediated ketone-ketone aldol reaction."
 
-url_pdf = "pdf/.pdf"
+url_pdf = "pdf/Reversible-aldols_ChemComm-2007.pdf"
 
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1039/b617094c"
 
 [header]
-image = "headers/.png"
+image = "headers/reversible-aldol.png"
 
 
 +++

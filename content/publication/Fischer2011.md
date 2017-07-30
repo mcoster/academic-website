@@ -13,13 +13,11 @@ title = "A Concise Route to Dihydrobenzo[b]furans: Formal Total Synthesis of (+)
 
 url_pdf = "pdf/Dihydrobenzofurans - preprint.pdf"
 
-
 [[url_custom]]
   name = "Full Text"
   url = "https://doi.org/10.1021/ol201130h"
 
 [header]
 image = "headers/dihydrobenzofurans_lithospermic-acid.png"
-
 
 +++

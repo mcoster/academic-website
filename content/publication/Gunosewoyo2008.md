@@ -11,14 +11,8 @@ publication_short = "_Bioorg. Med. Chem. Lett._ **2008**, _18_, 3720-3723"
 selected = false
 title = "Cubyl amides: Novel P2X7 receptor antagonists."
 
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
-
-[header]
-image = "headers/.png"
-
+  url = "http://doi.org/10.1016/j.bmcl.2008.05.062"
 
 +++

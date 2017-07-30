@@ -11,4 +11,8 @@ publication_short = "_Acta Crystallographica, Section E: Structure Reports Onlin
 selected = false
 title = "(1_R_,2_S_,3_R_,6_S_,7_R_,8_S_)-tricyclo[6.2.1.02,7]undeca-4,9-diene-3,6-diol."
 
+[[url_custom]]
+  name = "Full Text"
+  url = "https://doi.org/10.1107/S1600536806051002"
+
 +++

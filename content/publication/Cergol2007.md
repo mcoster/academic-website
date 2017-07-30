@@ -11,14 +11,14 @@ publication_short = "_Nat. Protoc._ **2007**, _2_, 2568-2573"
 selected = false
 title = "Asymmetric aldol reaction using boron enolates."
 
-url_pdf = "pdf/.pdf"
+url_pdf = "pdf/Aldol-reactions-NatProtoc2007.pdf"
 
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1038/nprot.2007.372"
 
 [header]
-image = "headers/.png"
+image = "headers/NP-PFV061240 coster Fig 1.png"
 
 
 +++

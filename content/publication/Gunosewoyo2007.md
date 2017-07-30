@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Current Medicinal Chemistry"
-publication_short = "_Curr. Med. Chem_ **2007**, _14_, 1505-1523"
+publication_short = "_Curr. Med. Chem._ **2007**, _14_, 1505-1523"
 selected = false
 title = "Molecular probes for P2X7 receptor studies."
 

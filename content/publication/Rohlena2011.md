@@ -2,7 +2,7 @@
 abstract = "Aims: A plausible strategy to reduce tumor progress is the inhibition of angiogenesis.  Therefore, agents that efficiently suppress angiogenesis can be used for tumor suppression.  We tested the antiangiogenic potential of a mitochondrially targeted analog of α-tocopheryl succinate (MitoVES), a compd. with high propensity to induce apoptosis.  Results: MitoVES was found to efficiently kill proliferating endothelial cells (ECs) but not contact-arrested ECs or ECs deficient in mitochondrial DNA, and suppressed angiogenesis in vitro by inducing accumulation of reactive oxygen species and induction of apoptosis in proliferating/angiogenic ECs.  Resistance of arrested ECs was ascribed, at least in part, to the lower mitochondrial inner transmembrane potential compared with the proliferating ECs, thus resulting in the lower level of mitochondrial uptake of MitoVES.  Shorter-chain homologs of MitoVES were less efficient in angiogenesis inhibition, thus suggesting a mol. mechanism of its activity.  Finally, MitoVES was found to suppress HER2-pos. breast carcinomas in a transgenic mouse as well as inhibit tumor angiogenesis.  The antiangiogenic efficacy of MitoVES was corroborated by its inhibitory activity on wound healing in vivo.  Innovation and Conclusion: We conclude that MitoVES, a mitochondrially targeted analog of α-tocopheryl succinate, is an efficient antiangiogenic agent of potential clin. relevance, exerting considerably higher activity than its untargeted counterpart.  MitoVES may be helpful against cancer but may compromise wound healing.  Antioxid. Redox Signal. 15, 2923-2935."
 abstract_short = "Aims: A plausible strategy to reduce tumor progress is the inhibition of angiogenesis.  Therefore, agents that efficiently suppress angiogenesis can be used for tumor suppression.  We tested the antiangiogenic potential of a mitochondrially targeted analog of α-tocopheryl succinate (MitoVES), a compd. with high propensity to induce apoptosis.  Results: MitoVES was found to efficiently kill proliferating endothelial cells (ECs) but not contact-arrested ECs or ECs deficient in mitochondrial DNA, and suppressed angiogenesis in vitro by inducing accumulation of reactive oxygen species and induction of apoptosis in proliferating/angiogenic ECs.  Resistance of arrested ECs was ascribed, at least in part, to the lower mitochondrial inner transmembrane potential compared with the proliferating ECs, thus resulting in the lower level of mitochondrial uptake of MitoVES.  Shorter-chain homologs of MitoVES were less efficient in angiogenesis inhibition, thus suggesting a mol. mechanism of its activity.  Finally, MitoVES was found to suppress HER2-pos. breast carcinomas in a transgenic mouse as well as inhibit tumor angiogenesis.  The antiangiogenic efficacy of MitoVES was corroborated by its inhibitory activity on wound healing in vivo.  Innovation and Conclusion: We conclude that MitoVES, a mitochondrially targeted analog of α-tocopheryl succinate, is an efficient antiangiogenic agent of potential clin. relevance, exerting considerably higher activity than its untargeted counterpart.  MitoVES may be helpful against cancer but may compromise wound healing.  Antioxid. Redox Signal. 15, 2923-2935."
 authors = ["Rohlena, Jakub", "Dong, Lan-Feng", "Kluckova, Katarina", "Zobalova, Renata", "Goodwin, Jacob", "Tilly, David", "Stursa, Jan", "Pecinova, Alena", "Philimonenko, Anatoly", "Hozak, Pavel", "Banerjee, Jaideep", "Ledvina, Miroslav", "Sen, Chandan K.", "Houstek, Josef", "**Coster, Mark J.**", "Neuzil, Jiri."]
-date = "2011-01-01"
+date = "2011-10-31"
 image_preview = ""
 math = true
 publication_types = ["2"]
@@ -11,14 +11,8 @@ publication_short = "_Antioxid. Redox Signal._ **2011**, _15_, 2923-2935"
 selected = false
 title = "Mitochondrially Targeted α-Tocopheryl Succinate Is Antiangiogenic: Potential Benefit Against Tumor Angiogenesis but Caution Against Wound Healing."
 
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
-
-[header]
-image = "headers/.png"
-
+  url = "https://doi.org/10.1089/ars.2011.4192"
 
 +++

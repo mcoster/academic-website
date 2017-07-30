@@ -11,14 +11,14 @@ publication_short = "_Org. Biomol. Chem._ **2012**, _10_, 154-161"
 selected = false
 title = "3,4'-Linked bis(piperidines) related to the haliclonacyclamine class of marine alkaloids: synthesis using crossed-aldol chemistry and preliminary biological evaluations."
 
-url_pdf = "pdf/.pdf"
+url_pdf = "pdf/Banwell_Hali.pdf"
 
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1039/C1OB06418E"
 
 [header]
-image = "headers/.png"
+image = "headers/haliclonacyclamine.png"
 
 
 +++

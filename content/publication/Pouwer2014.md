@@ -11,14 +11,14 @@ publication_short = "_ACS Med. Chem. Lett._ **2014**, _5_, 178-182"
 selected = false
 title = "Total Synthesis of Thiaplakortone A: Derivatives as Metabolically Stable Leads for the Treatment of Malaria."
 
-url_pdf = "pdf/.pdf"
+url_pdf = "pdf/Thiaplakortone total synthesis - ACS Med Chem Lett 2014.pdf"
 
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1021/ml400447v"
 
 [header]
-image = "headers/.png"
+image = "headers/Thiaplakortone-ACSMedChemLett2014.jpeg"
 
 
 +++

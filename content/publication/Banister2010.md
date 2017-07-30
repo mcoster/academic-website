@@ -11,15 +11,12 @@ publication_short = "_Bioorg. Med. Chem. Lett._ **2010**, _20_, 145-148"
 selected = false
 title = "Oxo-bridged isomers of aza-trishomocubane sigma (σ) receptor ligands: Synthesis, in vitro binding, and molecular modeling."
 
-
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "https://doi.org/10.1016/j.bmcl.2009.11.019"
 
 [header]
-image = "headers/.png"
+image = "headers/Sigma-BMCL-2010.jpg"
 
 
 +++

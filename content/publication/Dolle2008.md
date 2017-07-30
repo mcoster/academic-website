@@ -11,14 +11,8 @@ publication_short = "_Aust. J. Chem._ **2008**, _61_, 438-445"
 selected = false
 title = "Synthesis and In-Vivo Evaluation of [<sup>11</sup>C]p-PVP-MEMA as a PET Radioligand for Imaging Nicotinic Receptors."
 
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
-
-[header]
-image = "headers/.png"
-
+  url = "http://doi.org/10.1071/CH08083"
 
 +++
