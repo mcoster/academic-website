@@ -11,14 +11,8 @@ publication_short = "_J. Chem. Soc., Perkin Trans. 1_ **2002**, 1622-1624"
 selected = false
 title = "A chemoenzymatic synthesis of the styryllactone (+)-goniodiol from naphthalene."
 
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
-
-[header]
-image = "headers/.png"
-
+  url = "http://doi.org/10.1039/b205230j"
 
 +++

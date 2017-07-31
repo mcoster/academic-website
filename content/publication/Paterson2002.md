@@ -11,14 +11,13 @@ publication_short = "_Tetrahedron Lett._ **2002**, _43_, 3285-3289"
 selected = false
 title = "Total synthesis of altohyrtin A (spongistatin 1): an alternative synthesis of the CD-spiroacetal subunit."
 
-url_pdf = "pdf/.pdf"
+url_pdf = "pdf/Paterson2002.pdf"
 
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1016/S0040-4039(02)00527-0"
 
 [header]
-image = "headers/.png"
-
+image = "headers/Paterson2002.png"
 
 +++
