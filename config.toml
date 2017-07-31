@@ -136,7 +136,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/mark-coster-53b05457/"
+    link = "https://www.linkedin.com/in/markjcoster"
 
   [[params.social]]
     icon = "google-scholar"

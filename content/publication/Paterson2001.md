@@ -11,6 +11,8 @@ publication_short = "_Angew. Chem. Int. Ed._ **2001**, _40_, 4055-4060"
 selected = true
 title = "Stereocontrolled total synthesis of (+)-altohyrtin A/spongistatin 1."
 
+url_pdf = "pdf/Paterson2001.pdf"
+
 [[url_custom]]
   name = "Full Text"
   url = "https://doi.org/10.1002/1521-3773(20011105)40:21%3C4055::AID-ANIE4055%3E3.0.CO;2-H"

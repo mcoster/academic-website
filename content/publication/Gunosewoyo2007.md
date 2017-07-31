@@ -11,14 +11,9 @@ publication_short = "_Curr. Med. Chem._ **2007**, _14_, 1505-1523"
 selected = false
 title = "Molecular probes for P2X7 receptor studies."
 
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
-
-[header]
-image = "headers/.png"
+  url = "https://doi.org/10.2174/092986707780831023"
 
 
 +++

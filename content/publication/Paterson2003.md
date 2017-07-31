@@ -11,14 +11,18 @@ publication_short = "_Chem. Commun._ **2003**, 462-463"
 selected = false
 title = "Synthesis and biological evaluation of spongistatin/altohyrtin analogues: E-ring dehydration and C46 side-chain truncation."
 
-url_pdf = "pdf/.pdf"
+url_pdf = "pdf/Paterson2003.pdf"
 
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1039/b212651f"
+
+[[url_custom]]
+  name = "Supp Info"
+  url = "http://www.rsc.org/suppdata/cc/b2/b212651f/b212651f.doc"
 
 [header]
-image = "headers/.png"
+image = "headers/Paterson2003.png"
 
 
 +++

@@ -11,14 +11,15 @@ publication_short = "_Org. Lett._ **2002**, _4_, 3047-3050"
 selected = false
 title = "Medium Ring Ethers by Ring Expansion-Ring Contraction: Synthesis of Lauthisan."
 
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1021/ol0262946"
+
+[[url_custom]]
+  name = "Supp Info"
+  url = "http://pubs.acs.org/doi/suppl/10.1021/ol0262946"
 
 [header]
-image = "headers/.png"
-
+image = "headers/Coster2002.gif"
 
 +++

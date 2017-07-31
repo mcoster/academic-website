@@ -11,14 +11,13 @@ publication_short = "_J. Org. Chem._ **2003**, _68_, 613-616"
 selected = false
 title = "Selective Cleavage of _N_-Benzyl-Protected Secondary Amines by Triphosgene."
 
-url_pdf = "pdf/.pdf"
-
 [[url_custom]]
   name = "Full Text"
-  url = ""
+  url = "http://doi.org/10.1021/jo0263622"
 
-[header]
-image = "headers/.png"
+[[url_custom]]
+  name = "Supp Info"
+  url = "http://pubs.acs.org/doi/suppl/10.1021/jo0263622"
 
 
 +++
