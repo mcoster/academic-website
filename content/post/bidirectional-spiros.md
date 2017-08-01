@@ -9,7 +9,7 @@ A new way to synthesise spirocyclic compounds from simple, acyclic starting mate
 """
 
 [header]
-image = "bidirectional-spiros-post.png"
+image = "headers/bidirectional-spiros-post2.png"
 caption = "Image credit: Mark Coster"
 
 +++
