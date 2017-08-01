@@ -4,7 +4,7 @@
 shopt -s dotglob
 mkdir tmp
 mv public/CNAME public/.git public/keybase.txt tmp
-rm public/*
+rm -rf public/*
 mv tmp/* public
 rm -rf tmp
 
