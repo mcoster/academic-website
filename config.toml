@@ -144,14 +144,14 @@ defaultContentLanguageInSubdir = false
     link = "https://scholar.google.com.au/citations?hl=en&user=VsqcuYkAAAAJ&view_op=list_works&citft=1&citft=2&email_for_op=m.coster%40griffith.edu.au&gmla=AJsN-F62Khf_Uzw6EqlD6XNYbB_f9i5uUiaK-qWf_67ogbFAa0Lekg8bJ-6aquZuxk_HtvqYDOpWpuK7flAmb9gAyJx6ZfoD3sQ9A9XFH0SYAVTqY0cEy5FAry_RNxIDUpu7eYUms7jfFPwRzTogGpZD8C_Yke3PrMwpSQwIwA82IaAM_tNlOeyND-mHdBqC0kZFC8upzKbWW70BX4oDcLulByQx4cBc6dU61zezV6EfYm9wEi3_uaj756XXfLsPWbwbtpe9yKdx"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/mcoster"
-
-  [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
     link = "http://orcid.org/0000-0002-0910-6819"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/mcoster"
 
   [[params.social]]
     icon = "impactstory"
