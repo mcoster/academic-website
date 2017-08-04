@@ -148,6 +148,17 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://github.com/mcoster"
 
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0002-0910-6819"
+
+  [[params.social]]
+    icon = "impactstory"
+    icon_pack = "ai"
+    link = "https://profiles.impactstory.org/u/0000-0002-0910-6819"
+
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
