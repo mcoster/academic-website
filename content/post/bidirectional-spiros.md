@@ -7,7 +7,7 @@ math = true
 summary = """
 A new way to synthesise spirocyclic compounds from simple, acyclic starting materials.
 """
-js = ["3Dmol-min"]
+js = ["/js/3Dmol-min.js"]
 
 [header]
 image = "headers/bidirectional-spiros-post2.png"
